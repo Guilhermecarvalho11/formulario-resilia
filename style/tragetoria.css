@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+.container{
+    text-align: center;
+}
+
+body{
+    background-image: url("../img/david-van-dijk-3LTht2nxd34-unsplash.jpg");
+}
+
+h1, h4, ul{
+    font-size: 30px;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+}
+
+p,li{
+    font-size: 25px;
+    margin: 5px;
+    text-align:unset;
+}
+
+.nome{
+    text-align: center;
+    align-items: center;
+}
+.frase{
+    position: relative;
+}
+
+.objetivo{
+    position: relative;
+}
+
